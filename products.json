@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Luxury Watch",
+    "description": "Timeless design for ambitious minds.",
+    "image": "images/watch.jpg",
+    "link": "https://affiliate-link.com/watch"
+  },
+  {
+    "title": "Business Course",
+    "description": "Master the skills to grow your empire.",
+    "image": "images/course.jpg",
+    "link": "https://affiliate-link.com/course"
+  }
+]

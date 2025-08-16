@@ -1,0 +1,54 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #000;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  padding: 40px 20px;
+}
+
+.logo {
+  max-width: 150px;
+}
+
+h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 2rem;
+  margin: 20px 0;
+}
+
+.cta {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #fff;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+#about, #products {
+  padding: 40px 20px;
+}
+
+#product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.product {
+  background: #111;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+footer {
+  padding: 20px;
+  background: #111;
+}
